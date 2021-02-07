@@ -1,5 +1,5 @@
 ### 🪐🪐🌳🌱
-I'm a fullstack software engineer located in the Denver/Boulder area...
+fullstack software engineer located in the Denver/Boulder area...
 
 <!--
 **jacksanders-xyz/jacksanders-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
