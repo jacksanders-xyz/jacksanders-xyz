@@ -1,5 +1,5 @@
 ### 🪐🪐🌳🌱
-cloud/fullstack engineer in Brooklyn, NY...
+cloud/fullstack engineer in New York
 
 <!--
 **jacksanders-xyz/jacksanders-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
